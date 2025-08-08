@@ -515,7 +515,8 @@
       "url": "https://www.avira.com/en/blog/new-wave-of-plugx-targets-hong-kong",
       "source": "MANUAL",
       "targetPath": "/en/blog/new-wave-of-plugx-targets-hong-kong",
-      "id": "d6f95875dd6f427677467e7056e4d73d1da6ceff"
+      "id": "d6f95875dd6f427677467e7056e4d73d1da6ceff",
+      "status": "EXCLUDED"      
     },
     {
       "url": "https://www.avira.com/en/blog/older-adults-are-more-worried-about-identity-theft",
