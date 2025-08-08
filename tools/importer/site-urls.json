@@ -1,0 +1,827 @@
+{
+  "originUrl": "https://www.avira.com",
+  "urls": [
+    {
+      "url": "https://www.avira.com/en/blog",
+      "source": "MANUAL",
+      "targetPath": "/en/blog",
+      "id": "fdac91273f3d1307891de5782589f271f15e169d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/a-look-at-recent-corona-scams-spam-phone-scams-and-fake-websites",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/a-look-at-recent-corona-scams-spam-phone-scams-and-fake-websites",
+      "id": "51f46f6d5c10e4bec04a5543648b2e5ff186e986"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/a-practical-guide-to-spam-how-to-stop-spam-emails",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/a-practical-guide-to-spam-how-to-stop-spam-emails",
+      "id": "ba7b0fdce4a174393cf312524900e93d80ddd2ff"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/all-about-account-hijacking-and-how-to-protect-yourself",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/all-about-account-hijacking-and-how-to-protect-yourself",
+      "id": "7212be66b6bd3051044ccf18c24d098229373f5d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/all-about-ram",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/all-about-ram",
+      "id": "fb920da7699cb007bba941df873c3f4ad80b3dd9"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/all-you-need-to-know-to-clear-your-android-devices-cache",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/all-you-need-to-know-to-clear-your-android-devices-cache",
+      "id": "f704533286407e95aff8856dde542b313adce89f"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/animated-gifs-whatsapp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/animated-gifs-whatsapp",
+      "id": "29845e0b11678541ca0ab6f41014c7c9fa2e50ba"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/applock-android-welt",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/applock-android-welt",
+      "id": "268d7bcd07f4c61a7a9825d683543e702e19741c"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/are-you-being-pursued-by-a-stingray",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/are-you-being-pursued-by-a-stingray",
+      "id": "dbd20f8be469b2d86273e4a034da61e908781d56"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/avira-2",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/avira-2",
+      "id": "d72aca979df3e2fa57829f59db22e7c1c4b2e641"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/avira-2/page/4",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/avira-2/page/4",
+      "id": "e6b6f5855f22c0a13e29bebd2b54dde26786b9ca"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/avira-2/page/6",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/avira-2/page/6",
+      "id": "80fe0eb87e2d3d9d807d43c8b32e07c4fee99f7c"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/clare-stouffer",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/clare-stouffer",
+      "id": "1cd087db219a0d1e9dcac802a34ea1a7c75b948e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/clare-stouffer/page/2",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/clare-stouffer/page/2",
+      "id": "47b75c5542cabefd0d6c09b2c503ac0cafbed1ef"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/luis-corrons",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/luis-corrons",
+      "id": "c67db6633529415e823c14f34c37a959cda4a00e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/luis-corrons/page/2",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/luis-corrons/page/2",
+      "id": "22899048151a8e69b725396145f3a208f0ce9b66"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/lyle-frink",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/lyle-frink",
+      "id": "55706005a6f51956615da74066ec2fc6fed2edec"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/article_author/nils-matthiesen",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/article-author/nils-matthiesen",
+      "id": "07e1e60b18d15325edc7144eb56a0a4d3fd1d8ef"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/artificial-intelligence-on-smartphones-why-its-important",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/artificial-intelligence-on-smartphones-why-its-important",
+      "id": "d2a44144871d50dd45e1e5389459c269397f3aeb"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/authenticator-apps-more-security-for-your-online-accounts",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/authenticator-apps-more-security-for-your-online-accounts",
+      "id": "d5f9825457d3bc47718d8a91798f029b1c3032c0"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicola",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicola",
+      "id": "6e45bd661c74850a980955ecb471f48fdc23e002"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicola/page/3",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicola/page/3",
+      "id": "81c6dc71546e42b8fa1ba36b9516d83bddb08c21"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicola/page/4",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicola/page/4",
+      "id": "61b31009052cdfd91efa9c8c20da5fce501b75d9"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicola/page/5",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicola/page/5",
+      "id": "9c3e555730467a9ca47f0d3b4e52b3a0d547304b"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicola/page/6",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicola/page/6",
+      "id": "4199ff70b9e75b1ec389f8416f8cd0e9053013b5"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicole-lorenz",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicole-lorenz",
+      "id": "8b98b575d7983c7bb71e63caf2cf5184deec834d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicole-lorenz/page/4",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicole-lorenz/page/4",
+      "id": "3fa1d8dc4015ae934597b9560174d7cacd3e692c"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nicole-lorenz/page/5",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nicole-lorenz/page/5",
+      "id": "7adaf0d3b9efefec6f85f3d2c00d7fe39bc57e9e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nils-matthiesen",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nils-matthiesen",
+      "id": "d31fc2abd50369b6171afa0271766480cf09f1ee"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nils-matthiesen/page/2",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nils-matthiesen/page/2",
+      "id": "5e5289a23a5c201584571c53a7919b57394fec89"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/author/nils-matthiesen/page/3",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/author/nils-matthiesen/page/3",
+      "id": "983902f47ca8907afbc64238ca6a5b47b2c37997"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/avira-antivirus-2016",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/avira-antivirus-2016",
+      "id": "b3b03895e765a1fab7957673be17ca0b7574264c"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/avira-safethings-protects-smart-home",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/avira-safethings-protects-smart-home",
+      "id": "d4ffba3d6160d352185a700ff71e0fd0bb44bef9"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/avira-safethings-wifi-router-for-smart-homes-against-cyber-threats",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/avira-safethings-wifi-router-for-smart-homes-against-cyber-threats",
+      "id": "bfc8420eba25d1dc45d5abd4a77e5da2d175e7a5"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/biometric-data",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/biometric-data",
+      "id": "8c27c8ba252e32b5cd1a56acf77b0c001790f3f6"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/browser-based-password-managers-vs-dedicated-password-managers",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/browser-based-password-managers-vs-dedicated-password-managers",
+      "id": "ab43d8d7d55c17ddc352f9d373ff181b99ab8570"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/bug-bounty-time-at-avira",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/bug-bounty-time-at-avira",
+      "id": "de4e47d9de8ccca8313a4ce42aee8d08053ee12d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/build-your-own-gaming-pc",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/build-your-own-gaming-pc",
+      "id": "d3b6d255720d6fc035f60a2d62c1c132af2aa34e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/check-website-safety",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/check-website-safety",
+      "id": "bf85484d154b52c19aa211c28f75fb32fced07cc"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/cleanup-your-pc-for-a-zippy-windows-laptop-or-pc",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/cleanup-your-pc-for-a-zippy-windows-laptop-or-pc",
+      "id": "c4cf5e3bf5113da37e663c48cf2e374fb7f2202b"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/clear-browsing-search-history",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/clear-browsing-search-history",
+      "id": "007e96491ab13a2d675a2b91ac3af8915b856c99"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/clear-your-cache-in-a-few-simple-steps-on-any-browser",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/clear-your-cache-in-a-few-simple-steps-on-any-browser",
+      "id": "9d3213613ae266eb39fc9465128d3ba53c38e4a9"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/clone-your-hard-drive-heres-how",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/clone-your-hard-drive-heres-how",
+      "id": "3a3e6670720a0c5b4f03bf3ba152c4dc66ca5b96"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/credit-card-security-code",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/credit-card-security-code",
+      "id": "173db7086bc4d446ea2ee15351852c1743737eea"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/cybercriminals-on-the-move",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/cybercriminals-on-the-move",
+      "id": "e7638087b54b57d5d841ee28a68f735f6ec0f62e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/digital-detox",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/digital-detox",
+      "id": "cb44bd753c1ade85a2bb9b3e5a6fb477f938a7c7"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/dridex_serves_avira",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/dridex-serves-avira",
+      "id": "a12d72f8500b01f49ef3b01138f1f8b6931d019e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/enjoy-a-zippy-iphone-again-by-giving-it-a-good-clean-out",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/enjoy-a-zippy-iphone-again-by-giving-it-a-good-clean-out",
+      "id": "b7450db5f54aa1e54f68263d46af7678f415518d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/fastest-web-browsers",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/fastest-web-browsers",
+      "id": "b30c67047482e3a572a6d3dad76e070b9cf1324e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/firefox-throws-the-book-at-malware-too-hard",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/firefox-throws-the-book-at-malware-too-hard",
+      "id": "44cf0c1a042e56c97e926d069de7fd58ee368563"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/fix-wifi-connection-android",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/fix-wifi-connection-android",
+      "id": "945d1a9c95687c706685300ee820b7249a533344"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/focus-on-intrusion-detection-systems-ids",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/focus-on-intrusion-detection-systems-ids",
+      "id": "0b8c0b0054bcbc57334d3424e4f21fd31a6ba438"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/guide-to-buying-a-new-laptop",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/guide-to-buying-a-new-laptop",
+      "id": "5c3ab03bee3bcd189e2ccf38fbe96f1bf6729159"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/hackmud",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/hackmud",
+      "id": "25efe4f3e5e698a452438db43f737d141f7e7cc9"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/has-your-facebook-account-been-hacked-find-out-and-act-fast",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/has-your-facebook-account-been-hacked-find-out-and-act-fast",
+      "id": "3b1ddd4d5b5a990909b2df6f409b1cb19ef2cd61"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/has-your-social-media-account-been-hacked-heres-how-not-to-become-a-victim",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/has-your-social-media-account-been-hacked-heres-how-not-to-become-a-victim",
+      "id": "8e0431da783ddf9f39d10f3b6a75a4ec408bd67b"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/help-stopping-browser-fingerprinting",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/help-stopping-browser-fingerprinting",
+      "id": "df89466aba16adc830b09f551a94cf58ac22c0e0"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/hiding-unwanted-apps-on-android-device",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/hiding-unwanted-apps-on-android-device",
+      "id": "2bbdc1d0b2c3cf09f44f640fc6ffbbf22b2fa8d1"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/home-guard-part-3",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/home-guard-part-3",
+      "id": "8b95e175837f2266eadad0334ce5fb76d1cf3357"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-can-you-protect-yourself-from-cyberstalkers",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-can-you-protect-yourself-from-cyberstalkers",
+      "id": "6cb742e40c1fbaf3134da00b1c5972a5fb5ff8ab"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-often-should-i-scan-my-pc-for-malware",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-often-should-i-scan-my-pc-for-malware",
+      "id": "f2ae34de3cc7242214c5a2f9f732289429344070"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-boost-pc-gaming",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-boost-pc-gaming",
+      "id": "016854fafdab3bb8dd444cb232e6ad40b60ae2d4"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-enable-operas-ingenious-protection-function",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-enable-operas-ingenious-protection-function",
+      "id": "ee6b177b8b9bc5afec3ed3aa7ead0f283e903bfe"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-fix-black-screen-of-death",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-fix-black-screen-of-death",
+      "id": "3922bc9bd031ab00819c0e175abe01e043c49b02"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-identify-and-avoid-paypal-scams",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-identify-and-avoid-paypal-scams",
+      "id": "dbaf2d098c424a64abadc0fdccda99f2fc0c00dc"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-overclock-gpu",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-overclock-gpu",
+      "id": "8b4fa3b64aeac51ea9ac3f11dee3d691a75ed653"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-prevent-phishing-attacks",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-prevent-phishing-attacks",
+      "id": "9a4eff9fb0dfd9123b5f097c59dcf03ac0b4401d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-remove-computer-viruses-from-pc",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-remove-computer-viruses-from-pc",
+      "id": "33e5e41f6360381976b02585274c3913048ffe7d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-reset-and-recover-a-forgotten-password-in-windows",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-reset-and-recover-a-forgotten-password-in-windows",
+      "id": "4445d0381d1ba161ac6103cf93d58b703f152912"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-update-graphics-drivers",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-update-graphics-drivers",
+      "id": "1667477d9e5369e0e5645400cc56156385084db7"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/how-to-upgrade-your-pcs-ram",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-to-upgrade-your-pcs-ram",
+      "id": "46338507e31130855b22b792735fce40d86e9512"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/if-your-snapchat-accounts-been-hacked-heres-our-step-by-step-guide-to-getting-your-account-back",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/if-your-snapchat-accounts-been-hacked-heres-our-step-by-step-guide-to-getting-your-account-back",
+      "id": "4fef1c023fa5608dbe3c18b97eeb5667dbffb9df"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/instagram-account-been-hacked-read-our-step-by-step-guide-to-get-your-account-back",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/instagram-account-been-hacked-read-our-step-by-step-guide-to-get-your-account-back",
+      "id": "0fe871d11a49a874070767d662901101c354e1ef"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/internet-slow-lets-explore-why-its-more-tortoise-than-hare",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/internet-slow-lets-explore-why-its-more-tortoise-than-hare",
+      "id": "dacacd06244f6a50ae4e1ff1c7fc12ac8ea57985"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/iot-attacks-increase-as-the-mirai-botnet-evolves",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/iot-attacks-increase-as-the-mirai-botnet-evolves",
+      "id": "3e27ece8a85b9a953f6eb84cc0bb5b4932ab4ef8"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/iphone-is-vulnerable-to-killer-spyware",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/iphone-is-vulnerable-to-killer-spyware",
+      "id": "caa690573529d321f283a8b8b7dbb6da1254ec9c"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/is-apkpure-safe",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/is-apkpure-safe",
+      "id": "6ef20f843f39681e4c62b4f6b0ff5cd0297af3be"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/its-time-to-change-your-passwords-daybecause-789-is-just-not-good-enough-to-make-your-online-life-secure",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/its-time-to-change-your-passwords-daybecause-789-is-just-not-good-enough-to-make-your-online-life-secure",
+      "id": "d78dd87e2f44938984536846a23d4cfce6c67fdc"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/journee-internationale-de-la-langue-maternelle",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/journee-internationale-de-la-langue-maternelle",
+      "id": "77bb2ab392e89a75f4c333ca767944b9da3d01c6"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/keep-your-kids-safe-online",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/keep-your-kids-safe-online",
+      "id": "0c0a7f43bdc52b8c23308a7ba2a235327cb4fb17"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/mac-malware-evolution-from-opener-to-silver-sparrow",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/mac-malware-evolution-from-opener-to-silver-sparrow",
+      "id": "1446e25aa5266035b600ba43e6451a86204f0cc8"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/mac-ram-upgrade",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/mac-ram-upgrade",
+      "id": "6419fcc1c1ef6a21cb0eb54f94b86655031487cd"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/malvertising",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/malvertising",
+      "id": "486c75dee9d2a88aa110b7ddca060fc7117b8d6e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/monkey-app",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/monkey-app",
+      "id": "329de81d0aa29ff83e9b49ca99326388e9a976a8"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/need-for-speed-how-to-fix-a-slow-wi-fi-connection",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/need-for-speed-how-to-fix-a-slow-wi-fi-connection",
+      "id": "af5e6dd9fc84f27211461a6a97929eec7c3540d3"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/new-wave-of-plugx-targets-hong-kong",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/new-wave-of-plugx-targets-hong-kong",
+      "id": "d6f95875dd6f427677467e7056e4d73d1da6ceff"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/older-adults-are-more-worried-about-identity-theft",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/older-adults-are-more-worried-about-identity-theft",
+      "id": "720872fd26e9e9145430e0d7991d7df6ab1b6510"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/open-rar-files",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/open-rar-files",
+      "id": "d4731172161a33a87923b9f5a4df01db91aad7e1"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/parental-control-windows-10",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/parental-control-windows-10",
+      "id": "2dd0ad3d116aaf922f6755eca417a51566446720"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/pentest-secure-attacks-for-more-digital-protection",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/pentest-secure-attacks-for-more-digital-protection",
+      "id": "d620c83d2be5e2856645ae5c72512448bcb7a844"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/phishing-attacks-steps-to-stay-safe",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/phishing-attacks-steps-to-stay-safe",
+      "id": "79aec0e07b0eaea117746f4efb5439e5e61edc17"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/phone-hacking-heres-how-not-to-become-a-victim",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/phone-hacking-heres-how-not-to-become-a-victim",
+      "id": "85effd9dfe8881ec786b8d870602414f97229771"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/pokemon-go-mode",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/pokemon-go-mode",
+      "id": "10ebc8587e5f2cd1eef2a60173320d4977d525e0"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/pretty-good-privacy-pgp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/pretty-good-privacy-pgp",
+      "id": "421d2d12ec34d7b90ac4b0aae91256ff25838fd7"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/privacy",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/privacy",
+      "id": "f5cf1416d63dac5bb928ed27c67887961af66f08"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/privacy/page/4",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/privacy/page/4",
+      "id": "a5602a3315933aecdb48167d1be45f9a7868b19e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/privacy/page/5",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/privacy/page/5",
+      "id": "a207d622da4d4481f239e5ffc83c6d6d3d22bf90"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/private-browsing-tools-and-tips",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/private-browsing-tools-and-tips",
+      "id": "7e1d1a4d0ad3ed9dc2ef3e504283a98ec425ed8b"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/protect-yourself-from-ddos-attacks-heres-how",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/protect-yourself-from-ddos-attacks-heres-how",
+      "id": "113dfcc9c386dfb42a08c34fc19a5a75371ba9d3"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/protecting-your-data-in-the-cloud-heres-how",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/protecting-your-data-in-the-cloud-heres-how",
+      "id": "40bd2c83efa0f1f7e1f3e021c8da93da4e759ace"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/protecting-your-documents-with-a-password",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/protecting-your-documents-with-a-password",
+      "id": "5086a361548f9bc4c48b8f64446d5c1040aef65a"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/question-of-the-week-data-transfer-via-wetransfer",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/question-of-the-week-data-transfer-via-wetransfer",
+      "id": "5321c049650696cd89a7849588e0ac4cc3fc7919"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/question-of-the-weekhow-secure-are-smart-door-locks",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/question-of-the-weekhow-secure-are-smart-door-locks",
+      "id": "8f6ab5bbb4ef04930e8df7bf06fd6e37263b062f"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security",
+      "id": "36f3ddd8ceecd7022d1492f375e21049ffcf310e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/10",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/10",
+      "id": "4f2dbf8317d97ddb8f6ec9f99302d9110ddf5221"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/12",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/12",
+      "id": "b6dc56e1ff4f41936358f66218a792c024037b07"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/14",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/14",
+      "id": "e3b4df2a820f1c54e7bb879407111568a95a0c96"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/16",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/16",
+      "id": "6fabde89767da46de4910269d7f818e1364f109a"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/18",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/18",
+      "id": "4c35000e8558719bb571ae65ef50902eea91e878"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/20",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/20",
+      "id": "67e8dcaa7d6e32dd3883c1d75b5c865793ae0fc2"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/4",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/4",
+      "id": "2ea419eaa01cbf4ce4f6565b05a1fd6aab4701ff"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/6",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/6",
+      "id": "dbffbf6b699fe171988ad26250fc875ebfa810df"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/security/page/8",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/security/page/8",
+      "id": "d8f216ba8f3e0cc9e099aa759e0c660827c49dc1"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/show-your-phone-some-tlc-free-up-storage-space-on-android",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/show-your-phone-some-tlc-free-up-storage-space-on-android",
+      "id": "19c1241342bd8d4def7b85056692d14f66784add"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/signal-app-everything-you-wanted-to-know-about-this-private-messenger",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/signal-app-everything-you-wanted-to-know-about-this-private-messenger",
+      "id": "a1dd93bc2eb475531bae902db9c11a73f4bb872a"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/smart-home",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/smart-home",
+      "id": "1dffb926dc83d0c573ea054f0e99be1eb662f430"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/speed-up-iphone",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/speed-up-iphone",
+      "id": "567757757b6bea6c36b557aaaf7136d07fce6711"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/speed-up-laptop",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/speed-up-laptop",
+      "id": "b65aab0f0dc7b9b3efb42b2eef0a29c2d38fba19"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/stalkerware-is-spreading-protect-yourself",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/stalkerware-is-spreading-protect-yourself",
+      "id": "165301477e48ce54188946a1d22b90342622b3eb"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/test-your-microsoft-account-vulnerable",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/test-your-microsoft-account-vulnerable",
+      "id": "9d61ac97a5d7545307fc4ec4aa44d109fd9868da"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/the-smart-home-how-it-all-began",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/the-smart-home-how-it-all-began",
+      "id": "45176302b28dc81c2f8706ea5e1caff04121aa2e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/the-top-10-absolute-must-see-hacker-movies",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/the-top-10-absolute-must-see-hacker-movies",
+      "id": "39803ac40f3edf5ab50235255b89ea8b9bea6851"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/two-factor-authentication-hacker-protection",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/two-factor-authentication-hacker-protection",
+      "id": "e54f7fd33a3848b96877f61927c9e6958728b5c2"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/upnp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/upnp",
+      "id": "a310b0db606b7bd2c96bbe81eb44583ec0942b28"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/want-to-block-ads-in-your-browser",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/want-to-block-ads-in-your-browser",
+      "id": "eebf6f7d4fcb31786166ef191afbb120560a7fa0"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-are-malware-tests-and-how-do-you-run-one",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-are-malware-tests-and-how-do-you-run-one",
+      "id": "2c6bd1f71e01f95d112b490d2a26e7b9b8a53eef"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-a-rootkit-and-how-to-protect-your-pc",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-a-rootkit-and-how-to-protect-your-pc",
+      "id": "078bc2e2b85d72a1a1acfbe58a4ad081dfe9b1c7"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-an-about-blank-page",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-an-about-blank-page",
+      "id": "6533f065f7627e8913816353c657098ed2358af3"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-cross-site-scripting",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-cross-site-scripting",
+      "id": "89908121c55331ded8c43db53f99bea8cc6b8471"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-file-sharing",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-file-sharing",
+      "id": "3e6db83d3de91a0b02caf0cfe5a9d4dfc20a566e"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-other-storage-on-a-mac-and-how-do-you-delete-it",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-other-storage-on-a-mac-and-how-do-you-delete-it",
+      "id": "623e516deb55630c4a44c1e9621783de3b04ee49"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-the-black-screen-of-death-and-how-to-get-rid-of-it",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-the-black-screen-of-death-and-how-to-get-rid-of-it",
+      "id": "97324f8a33724e4b8269aed8c0d7512d9decd096"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-the-metaverse",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-the-metaverse",
+      "id": "fc250532e138a24cbbaf7276ffd11f18575ef8f3"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/windows-defender-exclusions-reek-of-malware",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/windows-defender-exclusions-reek-of-malware",
+      "id": "94d20968710c89dbac86649d0c0eaa89a4317d41"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/www.msi.com/blog/msi-afterburner-overclocking-undervolting-guide",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/www-msi-com/blog/msi-afterburner-overclocking-undervolting-guide",
+      "id": "69244fa102cb7382292eaebb3851f80df43cfa5a"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/yes-your-device-can-be-hit-with-a-cryptominer",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/yes-your-device-can-be-hit-with-a-cryptominer",
+      "id": "a894fff0ea083fb09c9264e4a67e04f5b2bdf7aa"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}
